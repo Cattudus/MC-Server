@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.table{
+  padding-left: 30rem;
+  padding-right: 30rem;
+}
+
+.header{
+  height: 100px;
+}
+
+.header-text{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.header-sub-text{
+  font-size: 22px;
+}
