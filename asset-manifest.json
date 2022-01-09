@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MC-Server/static/css/main.992ee325.css",
+    "main.js": "/MC-Server/static/js/main.73101841.js",
+    "static/js/787.7dd629ce.chunk.js": "/MC-Server/static/js/787.7dd629ce.chunk.js",
+    "index.html": "/MC-Server/index.html",
+    "main.992ee325.css.map": "/MC-Server/static/css/main.992ee325.css.map",
+    "main.73101841.js.map": "/MC-Server/static/js/main.73101841.js.map",
+    "787.7dd629ce.chunk.js.map": "/MC-Server/static/js/787.7dd629ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.992ee325.css",
+    "static/js/main.73101841.js"
+  ]
+}
